@@ -15,7 +15,9 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int n = 5;
-        System.out.println("Factorial of " + n + " is " + compute(n));
+    // Calculate factorial for a given number
+    int n = 5;
+    System.out.println("Factorial of " + n + " is " + compute(n));
+
     }
 }
